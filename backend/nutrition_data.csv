@@ -1,0 +1,11 @@
+age,gender,weight,height,activity_level,dietary_preference,health_goal,recommended_diet
+25,Male,70,175,High Activity,Omnivorous,Muscle Gain,High Protein Diet
+30,Female,65,160,Moderate Activity,Vegetarian,Maintenance,Balanced Diet
+22,Male,80,180,Low Activity,Omnivorous,Weight Loss,Low Carb Diet
+35,Female,55,155,Moderate Activity,Vegan,Muscle Gain,High Protein Vegan Diet
+28,Male,90,170,High Activity,Omnivorous,Maintenance,Balanced Diet
+40,Female,60,165,Low Activity,Vegetarian,Weight Loss,Low Calorie Diet
+32,Male,75,178,Moderate Activity,Omnivorous,Muscle Gain,High Protein Diet
+27,Female,50,160,Low Activity,Vegan,Maintenance,Balanced Vegan Diet
+45,Male,85,180,High Activity,Omnivorous,Weight Loss,Low Carb High Protein Diet
+38,Female,70,165,Moderate Activity,Vegetarian,Muscle Gain,High Protein Vegetarian Diet
